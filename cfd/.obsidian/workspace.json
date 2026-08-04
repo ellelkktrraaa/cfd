@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "164bdf333a4ef473",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d1f697471bd541f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dedcf65028cf3882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classic_machanisc/mit/1.revise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.revise"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01dbf92578d02855",
+    "type": "split",
+    "children": [
+      {
+        "id": "773b8f0677cea493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35f2b0d8bce95cda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f711052942fd1078",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1b9ff10ea0296fa1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d50ddfda310c4c51",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d3b7631e7f12839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efaaca0d81317f41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "classic_machanisc/mit/1.revise.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bccdc847bec8cb5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "classic_machanisc/mit/1.revise.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "267be23c3995373e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "29dad11ae133a687",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e15e77b445b26f8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "classic_machanisc/mit/1.revise.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "346f6a10edbdf239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classic_machanisc/mit/2.rotate energy and axis theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.rotate energy and axis theorem"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 664.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dedcf65028cf3882",
+  "lastOpenFiles": [
+    "classic_machanisc/mit/1.revise.pdf",
+    "classic_machanisc/mit/1.revise.md",
+    "classic_machanisc/mit/2.rotate energy and axis theorem.md",
+    "math/b1.md",
+    "math/b1o.pdf",
+    "math/b1.pdf",
+    "math/4weeks_plan.md",
+    "math/b1.html",
+    "math",
+    "4weeks_plan.md",
+    "classic_machanisc/mit/1.revise.html",
+    "approximation.md",
+    "classic_machanisc/mit/assets/1.1.png",
+    "Moment.md",
+    "classic_machanisc/mit/assets/2.1.png",
+    "classic_machanisc/mit/assets/traj_1_1.png",
+    "classic_machanisc/mit/plot_1_1.py",
+    "classic_machanisc/mit/assets/1.4.png",
+    "classic_machanisc/mit/assets/image.png",
+    "classic_machanisc/mit/assets/1.3.jpg",
+    "classic_machanisc/mit/assets/~.3.tmp",
+    "classic_machanisc/mit/assets/6ef5c65a820148b97307c2c8ab2755f9.jpg",
+    "classic_machanisc/mit/assets/1.2.png",
+    "Untitled.base",
+    "de/1geometrymethod.md",
+    "de/assets/1.1.png",
+    "de/assets",
+    "Welcome.md"
+  ]
+}
